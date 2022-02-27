@@ -58,8 +58,7 @@ projects:
     intro: >
       Right now i am trying to focus on only one thing.
     assignments:
-      - title: 3D modelling of human bodies
-        link: "no link for now, might change when i am more comfortable"
+      - title: "3D modelling of human bodies"
         tagline: "After so many months i am still unable to make a proper human body, working on it!"
 
 skills:
@@ -76,7 +75,7 @@ skills:
         level: 20%
         
       - name: C & C++
-        level: 55&
+        level: 55%
 
       - name: Photoshop
         level: 30%
