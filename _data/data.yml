@@ -20,20 +20,17 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Greek
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
       - item: Cooking
@@ -42,12 +39,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I was always intrigued by computers and programming in general, now i'm in my way to become better and learn stuff about my interests.
+      Always trying to make stuff my own way, not always the wisest or the easiest thing to do but most of the time it is fun. Interested in trying new stuff
+      and making myself more comfortable with group projects.
 education:
     - degree: MSc in Computer Science
       university: University of London
