@@ -8,23 +8,15 @@ sidebar:
     # Profile information
     name: Theophilos Panagiotis Papadopoulos
     tagline: Programmer / 3D Designer-Modeler
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: p19papa6@ionio.gr
+    phone: 697 --- ----
+    website: gordthrow.github.io/online-cv/ #do not add http://
+    linkedin: gordthrow
+    github: gordthrow
+    twitter: '@gordthrow'
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
