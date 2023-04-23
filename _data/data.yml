@@ -12,11 +12,11 @@ sidebar:
 
     # Sidebar links
     email: p19papa6@ionio.gr
-    phone: 697 --- ----
+    phone: 697 745 6399
     website: gordthrow.github.io/online-cv/ #do not add http://
     linkedin: gordthrow
     github: gordthrow
-    twitter: '@gordthrow'
+    twitter: ''
     pdf: https://raw.githubusercontent.com/gordthrow/online-cv/gh-pages/pdf/cv.pdf
 
     languages:
@@ -27,10 +27,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Gaming
+      - item: Music
         link:
 
-      - item: Music
+      - item: Games
         link:
 
       - item: Cooking
@@ -66,7 +66,7 @@ skills:
 
     toolset:
       - name: Python 
-        level: 65%
+        level: 75%
         
       - name: Blender
         level: 80%
